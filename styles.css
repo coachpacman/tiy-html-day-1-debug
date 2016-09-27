@@ -24,3 +24,9 @@ a {
     margin-right: 15px;
     margin-bottom: 50px;
 }
+
+.banner {
+    background: url(http://www.f-covers.com/cover/vader-beer-facebook-cover-timeline-banner-for-fb.jpg);
+    width: 100%;
+    min-height:300px;
+}
