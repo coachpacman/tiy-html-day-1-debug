@@ -30,3 +30,17 @@ a {
     width: 100%;
     min-height:300px;
 }
+
+h1 {
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    /*padding: 10px;*/
+    color: white;
+    font: bold 24px Helvetica, Sans-Serif;
+}
+
+h1 span {
+    background: rgb(0, 0, 0);
+    padding: 10px;
+}
